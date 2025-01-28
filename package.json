@@ -1,0 +1,16 @@
+{
+  "name": "revenue-image-api",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch app.js"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.7",
+    "canvas": "^3.1.0",
+    "hono": "^4.6.19"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "tsx": "^4.7.1"
+  }
+}
